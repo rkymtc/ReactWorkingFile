@@ -44,7 +44,7 @@ Sunucuyu çalıştırın
 - Bootstrap
 
 
-  
+ 
 ## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/)
