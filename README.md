@@ -4,7 +4,7 @@
 2. [Tours](https://react-working-file-2.netlify.app/)
 3. [Reviews](https://react-working-file-3.netlify.app/)
 4. [Tab](https://react-working-file-4.netlify.app/)
-5. [Search](https://react-working-file-1.netlify.app/)
+5. [Search](https://react-working-file-5.netlify.app/)
 
 
 ## Bilgisayarınızda Çalıştırın
