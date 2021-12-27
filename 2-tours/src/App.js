@@ -4,9 +4,8 @@ import Tours from "./component/Tours";
 function App() {
   return (
     <main>
-      <Tours/>
+      <Tours />
     </main>
   );
 }
-
 export default App;

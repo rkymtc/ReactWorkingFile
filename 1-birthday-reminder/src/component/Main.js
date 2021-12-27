@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import data from '../data/data'
 import List from "./List";
