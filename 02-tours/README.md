@@ -31,8 +31,9 @@ Sunucuyu çalıştırın
   
 ## Kullanılan Teknolojiler
 
+- CSS
 - React
-- Bootstrap
+
 
 
  
